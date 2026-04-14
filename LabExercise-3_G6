@@ -1,0 +1,25 @@
+# My first simple script
+
+# Simple print script
+print("Hello, I'm Richard Nobliza, BSIT-10")
+
+# Python Variables
+number = 10
+name = "Richard"
+print("Number:", number)
+print("Name:", name)
+
+# Python -Variable Names (group member first name example)
+Dustin = "Dustin"
+Selwyn = "Selwyn"
+Wench = "Wench"
+Jomarel = "Jomarel"
+print(Dustin, Selwyn, Wench, Jomarel)
+
+# Many Values to Multiple Variables
+x, y, z = 5, 10, 15
+print(x, y, z)
+
+# One Value to Multiple Variables
+a = b = c = 20
+print(a, b, c)
