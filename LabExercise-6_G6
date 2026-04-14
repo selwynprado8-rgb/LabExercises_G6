@@ -1,0 +1,19 @@
+my_list = ["guns", 10, True]
+my_tuple = ("coke", 20, False)
+my_set = {"peso", 30, True}
+my_dict = {
+    "name": "hun43rd",
+    "value": 43,
+    "active": True
+}
+
+if my_dict["value"] > 40:
+    result = True
+else:
+    result = False
+
+print("List:", my_list)
+print("Tuple:", my_tuple)
+print("Set:", my_set)
+print("Dictionary:", my_dict)
+print("Condition result:", result)
